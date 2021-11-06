@@ -1,0 +1,19 @@
+alterMIMEgo - MIME encoded email pack alteration tool
+
+Author : Peter Preeper
+Date of Creation : 2020-05-10
+Package : 
+URL: https://unitt.co/altermimego
+
+The alterMIMEgo program (and objects) has been written
+to facilitate the modification of MIME encoded email packs
+when such things as disclaimer additions and attachment
+nullification is required.
+
+alterMIME is a fork/translation of alterMIME
+
+Regards.
+Peter Preeper
+peter@preeper.org
+
+--END.
