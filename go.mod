@@ -1,3 +1,3 @@
 module github.com/ppreeper/altermimego.git
 
-go 1.17
+go 1.24
